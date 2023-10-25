@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @sebastiancapp
-- 👀 I’m interested in software development and data science for social good. 
-- 🌱 I’m currently learning Data Science at the University of Michigan - School of Information.
-- 💞️ I’m looking to collaborate on potential open-source projects designed to promote well-being, prevent harm, and promote social justice.
-- 📫 I can be reached at sebastiancapp@gmail.com
+Hi 👋 My name is Sebastian Capp
+Data Scientist and Program Manager
 
-<!---
-sebastiancapp/sebastiancapp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+As a dedicated data scientist, innate explorer, and lifelong learner, my journey revolves around harnessing data to uncover insights that empower others and contribute towards a more equitable world.
+
+My passion for using technology for social good was shaped and honed during my time at the University of Michigan, where I earned a Master of Applied Data Science degree in 2023. I firmly believe the intentional and ethical collaboration between software development, data science, and social work can foster a new wave of positive societal change.
+
+A bit more about me...
+* 🌍  I'm based in the US
+* ✉️  You can connect with me at [sebastiancapp@gmail.com](mailto:sebastiancapp@gmail.com)
+* 🧠  I'm experienced with Python, SQL, Hadoop, Spark, PyTorch, Tensorflow, Streamlit, Tableau, Statistics, and various forms of Machine Learning. 
+* ⚡  Lover of all things Lego
