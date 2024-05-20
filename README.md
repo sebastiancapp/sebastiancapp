@@ -1,4 +1,4 @@
-# Hi 👋 My name is Sebastian Capp
+# Hi 👋 I'm Sebastian Capp
 ## Data Scientist and Program Manager
 
 As a dedicated data scientist, innate explorer, and lifelong learner, my journey involves harnessing data to uncover insights in hopes of empowering others and contributing to a more equitable world.
