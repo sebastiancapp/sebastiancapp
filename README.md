@@ -1,4 +1,4 @@
-![Intro Header Image](https://github.com/sebastiancapp/sebastiancapp/blob/main/header.png)
+![Intro Header Image](https://github.com/sebastiancapp/sebastiancapp/blob/main/readme_header.png)
 
 As a dedicated data scientist, innate explorer, and lifelong learner, my journey involves harnessing data to uncover insights in hopes of empowering others and contributing to a more equitable world.
 
