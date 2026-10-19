@@ -11,9 +11,10 @@ Community lies at the core of my work. I'm drawn to data science for social good
 | Project | Highlights | Stack |
 | --- | --- | --- |
 | [**Auto-BG: The Board Game Concept Generator**](https://github.com/sebastiancapp/Auto-BoardGame)<br>MADS capstone | An LLM pipeline that turns BoardGameGeek tags into original board game concepts, trained on 20,769 ranked games. We tested 100 training games with BERTScore, ROUGE, and BLEURT to confirm the model writes new descriptions instead of memorizing old ones. | Python, PyTorch, Transformers, GPT-3, T5, spaCy, Streamlit |
+<!--
 | [**Country and Hip-Hop Song Popularity Prediction**](https://github.com/sebastiancapp/song-popularity-prediction)<br>MADS Milestone II | I led the supervised learning, tuning Lasso, Ridge, Random Forest, and XGBoost models on 4,800+ songs. Musical features explained under 5% of popularity (R² < 0.05), and artist popularity was the strongest predictor by far. | Python, scikit-learn, XGBoost, LDA topic modeling |
 | [**COVID-19 Economic Impact Analysis**](https://github.com/sebastiancapp/covid-economic-impact)<br>MADS Milestone I | Merged Federal Reserve economic data with COVID-19 case counts and a CDC event timeline I scraped. Retail spending and personal savings spiked after each stimulus check, then returned to 2019 levels within 2 to 3 months. | Python, pandas, scikit-learn, Seaborn, BeautifulSoup |
-
+-->
 ## What I work with
 
 - **Languages:** Python (pandas, NumPy, SciPy, scikit-learn), SQL
