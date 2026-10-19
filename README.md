@@ -1,33 +1,38 @@
 <img src="readme_header.png" alt="Sebastian Capp, Data Scientist" width="100%">
 
 # Hi, I'm Sebastian (he/him)
+
 My passion for data science is rooted in the belief that data, used with care, can improve the lives of people and the health of our planet. I bring a Master of Applied Data Science from the University of Michigan and seven years in higher education, most recently in health promotion and prevention, where I oversee assessment, analytics, and communications efforts.
 
-Community lies at the core of my work. I’m drawn to data science for social good, especially in public health, social work, and environmental sustainability, where insights strengthen the programs, services, and natural systems communities depend on. I believe the intentional and ethical collaboration between data science, software development, and social work can foster a more just, equitable, and sustainable world.
-
-<!--
-**Portfolio:** [sebastiancapp.github.io](https://sebastiancapp.github.io) ·
--->
-**LinkedIn:** [in/sebastiancapp](https://www.linkedin.com/in/sebastiancapp/) · **Email:** [sebastiancapp@gmail.com](mailto:sebastiancapp@gmail.com)
+Community lies at the core of my work. I'm drawn to data science for social good, especially in public health, social work, and environmental sustainability, where insights strengthen the programs, services, and natural systems communities depend on. I believe the intentional and ethical collaboration between data science, software development, and social work can foster a more just, equitable, and sustainable world.
 
 ## Featured work
 
-| Project | What it is | Stack |
+| Project | Highlights | Stack |
 | --- | --- | --- |
-| [**Auto-BG**](https://github.com/sebastiancapp/Auto-BoardGame) | My MADS capstone. A Streamlit app that turns BoardGameGeek tags into original board game concepts, using a T5 title model and a fine-tuned GPT-3 description model trained on 20,769 ranked games. Built with a team of three. | Python, PyTorch, Transformers, spaCy, Streamlit |
+| [**Auto-BG: The Board Game Concept Generator**](https://github.com/sebastiancapp/Auto-BoardGame)<br>MADS capstone | An LLM pipeline that turns BoardGameGeek tags into original board game concepts, trained on 20,769 ranked games. We tested 100 training games with BERTScore, ROUGE, and BLEURT to confirm the model writes new descriptions instead of memorizing old ones. | Python, PyTorch, Transformers, GPT-3, T5, spaCy, Streamlit |
+| [**Country and Hip-Hop Song Popularity Prediction**](https://github.com/sebastiancapp/song-popularity-prediction)<br>MADS Milestone II | I led the supervised learning, tuning Lasso, Ridge, Random Forest, and XGBoost models on 4,800+ songs. Musical features explained under 5% of popularity (R² < 0.05), and artist popularity was the strongest predictor by far. | Python, scikit-learn, XGBoost, LDA topic modeling |
+| [**COVID-19 Economic Impact Analysis**](https://github.com/sebastiancapp/covid-economic-impact)<br>MADS Milestone I | Merged Federal Reserve economic data with COVID-19 case counts and a CDC event timeline I scraped. Retail spending and personal savings spiked after each stimulus check, then returned to 2019 levels within 2 to 3 months. | Python, pandas, scikit-learn, Seaborn, BeautifulSoup |
 
-<!--
-| [**MILESTONE I TITLE**](REPO-LINK) | ONE-SENTENCE SUMMARY: the question, the data, the result. | TOOLS |
-| [**MILESTONE II TITLE**](REPO-LINK) | ONE-SENTENCE SUMMARY: the question, the data, the result. | TOOLS |
--->
 ## What I work with
 
-- **Languages:** Python, SQL, R
-- **Machine learning:** PyTorch, TensorFlow, NLP, supervised and unsupervised methods, statistics
-- **Big data:** Spark, Hadoop
-- **Visualization and BI:** Tableau, Power BI, Streamlit
-<!-- Add anything else you use confidently (pandas, scikit-learn, Git, etc.). Only list tools you'd be glad to be quizzed on. -->
+- **Languages:** Python (pandas, NumPy, SciPy, scikit-learn), SQL
+- **Machine learning:** supervised and unsupervised learning, NLP, deep learning (PyTorch, TensorFlow)
+- **Data and big data:** PostgreSQL, MySQL, SQLite, BigQuery, Spark, Hadoop
+- **Visualization and BI:** Matplotlib, Seaborn, Plotly, Altair, Tableau, Power BI, Streamlit
+- **Research methods:** survey and experiment design, causal inference, qualitative inquiry
 
-## Beyond the data
+## A bit more about me
 
-Lifelong Lego builder. Ask me about Catan, Coup, or any good deduction game.
+- 📍 Based in Seattle, WA
+- 🧱 Lifelong Lego builder
+- 🎲 Always up for Catan, Coup, or any good deduction game
+
+## Let's connect
+
+I'm continually inspired by the people I learn from and build alongside. I'd love to connect, exchange ideas, and collaborate on work that cultivates healthier communities.
+
+<!-- Uncomment after the portfolio launches:
+**Portfolio:** [sebastiancapp.github.io](https://sebastiancapp.github.io) ·
+-->
+**LinkedIn:** [in/sebastiancapp](https://www.linkedin.com/in/sebastiancapp/) · **Email:** [sebastiancapp@gmail.com](mailto:sebastiancapp@gmail.com)
